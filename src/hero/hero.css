@@ -1,0 +1,35 @@
+.heroNav{
+	display: flex;
+	justify-content: space-between; 
+	
+}
+.heroNav a{
+	text-decoration: none;
+	float:left;
+	color:#565673;
+	display: block;
+	padding: 8px;
+
+	text-transform: capitalize;
+
+
+}
+.heroNav a:hover{
+	color:#5f9ea0;
+}
+.search{
+	display: flex;
+	margin:8px 10px;
+}
+.searchInput{
+	border:0;
+	width:0;
+	transition: width 0.1s ease-in;
+}
+.searchInput.active{
+	width:150px;
+
+}
+.searchInput:focus{
+	outline: none;
+}

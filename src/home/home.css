@@ -1,0 +1,67 @@
+.first{
+	width:50%;
+	height: 96.3%;
+	left:68px;
+	position: absolute;
+
+}
+.fcaption{
+	position: relative;
+	text-align: left;
+	top:450px;
+	color:#fff;
+	font-size:25px;
+	left:200px;
+}
+
+
+
+.fourth{
+	width:22%;
+	height: 50%;
+	position: absolute;
+	left:740px;
+	top:297px;
+
+}
+.Fcaption{
+	position: relative;
+	text-align: center;
+	top:200px;
+	left:210px;
+	color:#fff;
+	font-size:20px;
+	
+}
+.fifth{
+	width:20.7%;
+	height: 50%;
+	position: absolute;
+	left:1000px;
+	top:297px;
+}
+.ficaption{
+	position: relative;
+	text-align: center;
+	top:170px;
+	left:475px;
+	color:#fff;
+	font-size:20px;
+
+}
+.second{
+	width:40.2%;
+	height: 47%;
+	position:absolute;
+	left:738px;
+	top:580px;
+}
+.Scaption{
+	position: relative;
+	text-align: center;
+	top:360px;
+	left:350px;
+	color:#fff;
+	font-size:25px;
+
+}
